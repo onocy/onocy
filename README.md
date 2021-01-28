@@ -1,4 +1,8 @@
-### Hi there 👋
+🌱 I help build web applications using:
+
+- React ⚛
+- Ruby on Rails 🔺
+- Python 🐍
 
 <!--
 **onocy/onocy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
